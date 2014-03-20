@@ -1,3 +1,10 @@
-#Ruby on Rails Chapter 3 Static pages 
+#Bitcoin Project  
 
-Working on chapter 3, static pages of the rails tutorial book @ http://ruby.railstutorial.org/chapters/static-pages#top
+Teaching myself rails with a Bitcoin project im working on
+
+The site will have:  
+
+- Users 
+- Bitcoin posts
+
+
